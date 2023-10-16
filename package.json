@@ -1,5 +1,5 @@
 {
-  "homepage": "https://navyasree1799.github.io/CIS641-HW2-NAVYASREE",
+  "homepage": "http://navyasree1799.github.io/CIS641-HW2-NAVYASREE",
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -27,6 +27,7 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
+    "gh-pages": "^6.0.0",
     "vite": "^4.4.5"
   }
 }
