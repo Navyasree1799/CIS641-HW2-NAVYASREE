@@ -6,3 +6,7 @@
   * I had prior knowledge in React js. I worked as a frontend developer at a startup company in India.
 
 ![This is an meme](https://www.letseatcake.com/wp-content/uploads/2021/07/funny-memes-12.jpg)
+
+
+
+
