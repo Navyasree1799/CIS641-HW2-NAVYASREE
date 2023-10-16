@@ -1,5 +1,4 @@
 {
-  "homepage": "https://navyasree1799.github.io/CIS641-HW2-NAVYASREE",
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -10,10 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-  },
+  
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "framer-motion": "^10.16.4",
